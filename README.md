@@ -10,17 +10,15 @@
 - 🔭 I’m currently working on expanding my personal projects  
 - 🌱 I’m currently learning more about full-stack and data science  
 - 💬 Ask me about: Web dev, tech, or anything interesting  
-- ⚡ Fun fact: Computer Science wasn’t my first choice—but now I love it  
+- ⚡ Fun fact: I'm allergic to grass and crab meat 
 
 ---
 
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whoatethesushi/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/whoatethesushi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/1007557270294503494)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarelltamonte@gmail.com)
-
-🟣 Discord: **@whoatethesushi.**
 
 ---
 
