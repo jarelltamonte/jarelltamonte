@@ -37,6 +37,7 @@
 
 ### 📊 Data Science & ML
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
@@ -57,6 +58,9 @@
 ### 🎨 Design
 ![Adobe](https://img.shields.io/badge/adobe%20creative%20cloud-DA1F26.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
